@@ -17,4 +17,6 @@
 
 ## Appendix
 
-The graph 
+The graph is this:
+
+![The Graph](images/mygraph.png)
